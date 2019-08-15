@@ -1,7 +1,7 @@
 """
  * Autor: Pierre Vieira
  * Data atual do sistema: 15/08/2019
- * Clion ------> JetBrains IDE
+ * Pycharm ------> JetBrains IDE
  * Observação: esse programa foi inicialmente feito na sexta-feira 09/08/2019
  * Foram úteis para o desenvolvimento de raciocínio dessa questão os seguintes links abaixo
  * https://www.ime.usp.br/~pf/algoritmos/aulas/aloca.html
